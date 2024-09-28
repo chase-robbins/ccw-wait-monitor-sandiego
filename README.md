@@ -34,7 +34,7 @@ This project requires the following environment variables:
 
 ```
 NEXT_PUBLIC_RETOOL_API_URL=https://api.retool.com/v1/workflows/3935900e-8c0f-468c-a654-f57b4fb71d0c/startTrigger
-NEXT_PUBLIC_RETOOL_API_KEY=retool_wk_1910f7c3860644c1a6f119af738dc984
+NEXT_PUBLIC_RETOOL_API_KEY= 
 ```
 
 Make sure to add these to your `.env` file before running the project.
